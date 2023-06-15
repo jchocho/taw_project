@@ -1,0 +1,9 @@
+.item-container {
+  display: flex;
+  justify-content: flex-start;
+  margin: 10px -5px; /* Odstęp z każdej strony */
+}
+
+.item-container movie-item {
+  margin: 0 5px; /* Odstęp między elementami */
+}

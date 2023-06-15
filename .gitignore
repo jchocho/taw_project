@@ -1,0 +1,7 @@
+/client/.idea
+/client/.angular
+/client/.vscode
+/client/node_modules
+/server/.idea
+/server/node_modules
+/.idea
